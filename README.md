@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Yuchen, a software engineer from Canada. My area of expertise is in full-stack web development and software engineering. I am currently a recent graduate from UWaterloo with a Bachelor of Computer Science. I am passionate about building products that can help people and make a positive impact on the world. I am also interested in machine learning and data science. I am always looking for opportunities to learn and grow as a software engineer.
+I'm Yuchen, a software engineer from Canada. My area of expertise is in full-stack web development and software engineering. I am currently a recent graduate from UWaterloo with a Bachelor of Software Engineering. I am passionate about building products that can help people and make a positive impact on the world. I am also interested in machine learning and data science. I am always looking for opportunities to learn and grow as a software engineer.
 
 
 ### Previous Experience 🎒
