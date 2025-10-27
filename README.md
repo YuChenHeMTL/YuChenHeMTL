@@ -18,9 +18,6 @@ I'm Yuchen, a software engineer from Canada. My area of expertise is in full-sta
 - Anything related to software engineering, web development, and machine learning!
 - Rock climbing and bouldering
 
-### ⚡ Fun fact
-- I can always pick the best dish in a restaurant. 😏
-
 Thanks for stopping by! 😄
 
 <!--
